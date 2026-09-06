@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DiON streamTV</string>
+    <string name="title_activity_main">DiON streamTV</string>
+    <string name="package_name">com.streamtv.webview</string>
+    <string name="custom_url_scheme">com.streamtv.webview</string>
+</resources>

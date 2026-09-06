@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+android/.gradle/
+.gradle-user/
+android/local.properties
+android/app/build/
+.playwright-cli/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+android/app/google-services.json
+*.jks
+*.keystore
