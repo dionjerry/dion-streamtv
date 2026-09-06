@@ -14,6 +14,20 @@ Vite, Capacitor, and native Android TV integrations.
 - Android TV Watch Next/Continue Watching publishing
 - Visual tabs, browsing history, diagnostics, and crash recovery
 
+## Screenshots
+
+### Home
+
+![DiON streamTV home screen](docs/screenshots/home.png)
+
+### Settings
+
+![DiON streamTV settings](docs/screenshots/settings.png)
+
+### Library
+
+![DiON streamTV library](docs/screenshots/library.png)
+
 The app includes an app-scoped request blocker. Use the pointer to click the
 `AD BLOCK ON/OFF` pill in the top-right corner, or press the remote's Menu/Settings
 key. The preference is remembered and changing it reloads the current page.
